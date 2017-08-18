@@ -24,3 +24,7 @@ html {
 	color: gray;
 	font-size: 21px;
 }
+
+.right-align {
+	text-align: right;
+}
