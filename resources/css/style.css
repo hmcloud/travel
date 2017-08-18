@@ -10,3 +10,17 @@ html {
 	font-size: 50px;
 	
 }
+.h2-like {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.download-link {
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+.desc-caption {
+	color: gray;
+	font-size: 21px;
+}
